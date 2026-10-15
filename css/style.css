@@ -1,6 +1,31 @@
 @import url('https://googleapis.com');
 
 body {
-    margin: 2em auto;
+    margin : 2em auto;
     width: 80%;
 }
+/*home page*/
+.home-page {
+    background-color: orange;
+
+}
+.home-page h1{
+    font-family: 'Kings', cursive;
+    color: black;
+}
+.home-page h2, h3{
+    font-family: 'Isometra', serif;
+    color: rgb(49, 9, 9);
+}
+/* about page*/
+.about-page {
+    background-color: orange;
+
+}
+.about-page h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+
+
