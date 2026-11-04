@@ -50,9 +50,9 @@ p{
     
     background-color: rgba(255, 255, 255, 0.92); 
     border-radius: 8px;             
-}/*
+}
 a:hover {
-    color: #0008f7;                 
+    color: #0bc4ed;                 
     text-decoration: underline;     
     font-weight: bold;              
     transition: all 0.2s ease;      
@@ -61,7 +61,7 @@ img:hover {
     transform: scale(1.05);          
     transition: all 0.2s ease;
 }
-*/
+
 
 
 
