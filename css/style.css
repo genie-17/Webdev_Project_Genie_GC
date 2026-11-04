@@ -40,8 +40,7 @@ p{
     color: black;
     font-size: small;
 }
-.content box {
-    .content-box {
+.content-box {
     width: 90%;                     
     max-width: 500px;
     height: auto;                   
@@ -52,7 +51,7 @@ p{
     background-color: rgba(255, 255, 255, 0.92); 
     border-radius: 8px;             
 }
-}
+
 
 
 
