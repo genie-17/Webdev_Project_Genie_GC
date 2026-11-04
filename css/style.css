@@ -7,16 +7,16 @@ body {
 /*home page*/
 .home-page {
     
-    background-image: url("C:\\Users\\iricl\\OneDrive\\Images\\Screenshots\\Screenshot 2026-11-04 161609.png");
+    background-image: url("C:\\Users\\iricl\\OneDrive\\Images\\Screenshots\\Screenshot 2026-11-04 162023.png");
 
 }
 .home-page h1{
     font-family: "Audiowide", sans-serif;
-    color: hsl(197, 24%, 94%);
+    color: hsl(0, 0%, 0%);
 }
 .home-page h2, h3{
     font-family: 'Isometra', serif;
-    color: #fcf9f9;
+    color: #000000;
     font-size:large;
 }
 /* about page*/
