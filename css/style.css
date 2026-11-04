@@ -13,27 +13,30 @@ body {
 .home-page h1{
     font-family: "Audiowide", sans-serif;
     color: hsl(0, 0%, 0%);
+    background-color: hsl(0, 0%, 100%);
 }
 .home-page h2, h3{
     font-family: 'Isometra', serif;
     color: #000000;
     font-size:large;
+    background-color: hsl(0, 0%, 100%);
 }
 /* about page*/
 .about-page {
-    background-color: rgb(232, 213, 177);
     background-image: url("C:\\Users\\iricl\\OneDrive\\Images\\Screenshots\\Screenshot 2026-11-04 162023.png");
 
 }
 .about-page h1{
     font-family: 'Times New Roman', Times, serif;
     color: black;
+    background-color: hsl(0, 0%, 100%);
 }
 
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
     font-size: small;
+    background-color: hsl(0, 0%, 100%);
 }
 
 
