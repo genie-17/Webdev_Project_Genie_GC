@@ -26,9 +26,8 @@ body {
 .about-page header {
     font-family: 'Times New Roman', Times, serif;
     color: black;
-    background-color: hsl(0, 0%, 100%);
     width: 100%;
-    padding: 1em;
+    padding: center;
 
 
 }
