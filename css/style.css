@@ -13,8 +13,7 @@ body {
 .home-page img{
     max-width: 100%;
     height: auto;
-    display: block;
-    margin: 0 auto;
+    
 }
 .home-page h1{
     font-family: "Audiowide", sans-serif;
@@ -36,8 +35,7 @@ body {
 .about-page img{
     max-width: 100%;
     height: auto;
-    display: block;
-    margin: 0 auto;
+   
 }
 .about-page h1{
     font-family: 'Times New Roman', Times, serif;
