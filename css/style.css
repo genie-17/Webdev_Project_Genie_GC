@@ -7,7 +7,7 @@ body {
 /*home page*/
 .home-page {
     
-    background-image: url("/1 garage.png");
+    background-image: src="1 garage.png";
 
 }
 .home-page img{
@@ -29,7 +29,7 @@ body {
 }
 /* about page*/
 .about-page {
-    background-image: url("/1 garage.png");
+    background-image: src="1 garage.png";
 
 }
 .about-page img{
