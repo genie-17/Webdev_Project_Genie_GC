@@ -10,6 +10,12 @@ body {
     background-image: url("C:\Users\iricl\OneDrive\Documents\GitHub\Webdev_Project_Genie_GC\1 garage.png");
 
 }
+.home-page img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 .home-page h1{
     font-family: "Audiowide", sans-serif;
     color: hsl(0, 0%, 0%);
@@ -26,6 +32,12 @@ body {
 .about-page {
     background-image: url("C:\Users\iricl\OneDrive\Documents\GitHub\Webdev_Project_Genie_GC\1 garage.png");
 
+}
+.about-page img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 .about-page h1{
     font-family: 'Times New Roman', Times, serif;
