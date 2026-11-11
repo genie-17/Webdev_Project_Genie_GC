@@ -9,6 +9,8 @@ body {
     
     background-image: url("1 garage.png");
     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 
 }
 .home-page img{
@@ -32,6 +34,8 @@ body {
 .about-page {
     background-image: url("1 garage.png");
     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 .about-page img{
     max-width: 100%;
