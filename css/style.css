@@ -76,7 +76,19 @@ img:hover {
     transform: scale(1.05);          
     transition: all 0.2s ease;
 }
+.car-gallery {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    margin: 20px 0;
+}
 
+.car-gallery img{
+    width: 48%;
+    height: auto;
+    
+}
 
 
 
